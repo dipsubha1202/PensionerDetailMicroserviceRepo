@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "K+H6KX9uv30jDB9Do+yzIUgck2iYm9aJ0vORry8cq192XX44HH1ESn6IgOGSyK1f7t2PJuLnEeh4FxwooLBH6A==",
+  "dgSpecHash": "YQgGCMGvZaYPogC3+DYIGY1vfd4bjRImb2KzIWb5DxOcqMK8KW6c8xKXDhl7qau4hi5YYcnUErG4u8j11zt0sQ==",
   "success": true,
   "projectFilePath": "D:\\ProjectFinal\\API\\PensionerDetailMicroservice\\PensionerDetailMicroservice\\PensionerDetailMicroservice.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\moq\\4.13.0\\moq.4.13.0.nupkg.sha512",

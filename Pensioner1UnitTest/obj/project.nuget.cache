@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qAgSRfV6WNKL6c4uPdvSh7xUqzdoRsL7Hkn2iQOtO+UcxmNDTJsIaKiHT/N1QldKeVMGu+1XK4zYPtjZbGeW9g==",
+  "dgSpecHash": "Kbj6A39bO/2+BlVFFh7P7fq4LTriX8jngijmpPUEeI+nbzXZQmfNDlEIsyP7JEq1qKYXgsLp/eqBRHI4FeVNgg==",
   "success": true,
   "projectFilePath": "D:\\ProjectFinal\\API\\PensionerDetailMicroservice\\Pensioner1UnitTest\\Pensioner1UnitTest.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.5.0\\microsoft.testplatform.objectmodel.16.5.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\moq\\4.13.0\\moq.4.13.0.nupkg.sha512",
