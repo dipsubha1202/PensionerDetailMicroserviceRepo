@@ -9,8 +9,8 @@ using PensionerDetailMicroservice.Data;
 namespace PensionerDetailMicroservice.Migrations
 {
     [DbContext(typeof(MTwoPensionDbContext))]
-    [Migration("20220807104108_PensionerInitial")]
-    partial class PensionerInitial
+    [Migration("20220821122813_Initials")]
+    partial class Initials
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

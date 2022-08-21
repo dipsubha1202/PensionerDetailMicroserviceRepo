@@ -86,3 +86,5 @@ D:\FinalProject Demo\API\PensionerDetailMicroservice\PensionerDetailMicroservice
 D:\FinalProject Demo\API\PensionerDetailMicroservice\PensionerDetailMicroservice\bin\Debug\netcoreapp3.1\Moq.dll
 D:\ProjectFinal\API\PensionerDetailMicroservice\PensionerDetailMicroservice\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\ProjectFinal\API\PensionerDetailMicroservice\PensionerDetailMicroservice\bin\Debug\netcoreapp3.1\Moq.dll
+D:\ProjectFinal\API\PensionerDetailMicroservice\PensionerDetailMicroservice\bin\Debug\netcoreapp3.1\DeploymentCloud.yaml
+D:\ProjectFinal\API\PensionerDetailMicroservice\PensionerDetailMicroservice\bin\Debug\netcoreapp3.1\Dockerfile

@@ -250,3 +250,5 @@ D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\obj\Debug\net
 D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\obj\Debug\netcoreapp3.1\Pensioner1UnitTest.dll
 D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\obj\Debug\netcoreapp3.1\Pensioner1UnitTest.pdb
 D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\obj\Debug\netcoreapp3.1\Pensioner1UnitTest.genruntimeconfig.cache
+D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\bin\Debug\netcoreapp3.1\DeploymentCloud.yaml
+D:\ProjectFinal\API\PensionerDetailMicroservice\Pensioner1UnitTest\bin\Debug\netcoreapp3.1\Dockerfile
