@@ -1,22 +1,14 @@
-#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
-
-FROM mcr.microsoft.com/dotnet/aspnet:3.1 AS base
+#SeFROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build-env
 WORKDIR /app
-EXPOSE 80
-EXPOSE 443
 
-FROM mcr.microsoft.com/dotnet/sdk:3.1 AS build
-WORKDIR /src
-COPY ["PensionerDetailMicroservice/PensionerDetailMicroservice.csproj", "PensionerDetailMicroservice/"]
-RUN dotnet restore "PensionerDetailMicroservice/PensionerDetailMicroservice.csproj"
-COPY . .
-WORKDIR "/src/PensionerDetailMicroservice"
-RUN dotnet build "PensionerDetailMicroservice.csproj" -c Release -o /app/build
+COPY *.csproj ./
+RUN dotnet restore
 
-FROM build AS publish
-RUN dotnet publish "PensionerDetailMicroservice.csproj" -c Release -o /app/publish
+COPY . ./
+RUN dotnet publish -c Release -o out
 
-FROM base AS final
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=build-env /app/out .
 ENTRYPOINT ["dotnet", "PensionerDetailMicroservice.dll"]
+
